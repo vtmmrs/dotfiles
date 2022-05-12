@@ -75,5 +75,8 @@
     {
         "rubocop": true
     },
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Dracula",
+    "window.zoomLevel": -1,
+    "security.workspace.trust.untrustedFiles": "open"
 }
